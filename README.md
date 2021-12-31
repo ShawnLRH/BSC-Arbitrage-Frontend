@@ -28,12 +28,10 @@ A list of folders and what to expect
 
 ## Installation Guide
 
-1. Download project file
-2. Unzip project file (You should see client and server folders)
-3. Create a MAIN folder for the sub-folders (client and server)
-4. Open the MAIN folder in VScode or any code editor
-5. Open terminal window and split the terminal window
-6. On the left terminal, run the following command to install client dependencies:
+1. Clone/Download Project file
+2. Unzip project file (If clone then skip this step)
+3. Open terminal window and split the terminal window
+4. On the left terminal, run the following command to install client dependencies:
 
 NOTE: If you don't have yarn installed, please use npm
 
